@@ -1,2 +1,2 @@
 # Projects
-For my appacademy projects
+For my projects
